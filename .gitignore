@@ -2,7 +2,7 @@ node_modules
 .env
 .DS_Store
 dist
-.vscode/*
+.vscode
 !.vscode/extensions.json
 
 
