@@ -2,10 +2,9 @@
 
 This is a simple Vue.js app to create and view bank accounts. REST APIs are developed in GoLang and runs separately on render platform
 
-## Type Support for `.vue` Imports in TS
+## Deployment
 
-TypeScript cannot handle type information for `.vue` imports by default, so we replace the `tsc` CLI with `vue-tsc` for type checking. In editors, we need [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) to make the TypeScript language service aware of `.vue` types.
-
+This project is deployed on Vercel platform and can be viewed here: https://bank-account-management-fe.vercel.app
 
 ## Project Setup
 
