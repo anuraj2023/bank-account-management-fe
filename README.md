@@ -1,6 +1,6 @@
-# banking-frontend
+# Bank Account Management Appp
 
-This template should help get you started developing with Vue 3 in Vite.
+This is a simple Vue.js app to create and view bank accounts. REST APIs are developed in GoLang and runs separately on render platform
 
 ## Recommended IDE Setup
 
